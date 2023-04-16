@@ -6,3 +6,7 @@ the game will inform him of this,
 this also happens if the number is higher than the one he has to guess.
 --------------------
 Feel free to contact @tudorntc if you notice any problems or if you have any questions about this project.
+--------------
+Author
+---------
+[Nica Tudor](https://github.com/tudorntc)
